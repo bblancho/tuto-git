@@ -30,7 +30,7 @@
     </section>
 
     <footer class="bg-light text-muted mt-5 p-3">
-      2019 © Chamelles & CoM
+      2019 © Chamelles & Co
     </footer>
 
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
