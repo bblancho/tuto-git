@@ -1,4 +1,5 @@
 *.log
+*.tmp
 /cache/*
 
 # on n'ignore pas le gichier cache1.txt même si la ligne plus haut le rep est ignoré
